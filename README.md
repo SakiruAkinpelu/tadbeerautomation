@@ -28,9 +28,9 @@ I provide hands-on training sessions and resources on data analysis, Excel autom
 *A glimpse of some of the projects I've been working on.*
 
 **Crypto Price Alert System (CoinGecko → Google Sheets → Telegram Bot)**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Make 1.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This automation is designed to monitor live cryptocurrency prices using data from the CoinGecko API, log them into Google Sheets, and automatically send price alerts to Telegram based on real-time market changes.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
