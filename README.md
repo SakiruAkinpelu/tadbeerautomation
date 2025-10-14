@@ -33,7 +33,7 @@ I provide hands-on training sessions and resources on data analysis, Excel autom
 This automation is designed to monitor live cryptocurrency prices using data from the CoinGecko API, log them into Google Sheets, and automatically send price alerts to Telegram based on real-time market changes.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://mercy-williams-porfolio.my.canva.site/dark-and-playful-simple-creative-portfolio-presentation)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
